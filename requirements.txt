@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain-huggingface
+langchain-chroma
+langgraph
+langchain-community
+langchain-tavily
+gradio
+sentence-transformers
